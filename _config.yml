@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "freekrai.jpg"
+  avatar           : "freekrai.png"
   bio              : "Code monkey"
   location         : "Penticton, BC"
   email            :
