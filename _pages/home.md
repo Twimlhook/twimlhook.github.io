@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Sign up now"
   cta_url: "#"
   caption:
-excerpt: 'A flexible Twilio webhook hosting platform.<br /><br />Create quick single-purpose webhooks to handle incoming calls, messages, or anything you need your Twilio webhooks to do all in node.js<br /><br />'
+excerpt: 'Phonehooks is a flexible Twilio webhook hosting platform.<br /><br />Create quick single-purpose webhooks to handle incoming calls, messages, or anything you need your Twilio webhooks to do all in node.js<br /><br />'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
